@@ -1,0 +1,1 @@
+console.loge('hola mundo');
